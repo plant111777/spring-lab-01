@@ -48,3 +48,4 @@ public class HelloController {
     public record Info(String owner, String javaVersion, int cpuCores) { }
     public record FactorialResult(int n, String factorial) { }
 }
+с
